@@ -29,7 +29,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Review of the global and regional video games markets, data-based business recommendations.  
 
 ## Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
 
 ## Certificates
