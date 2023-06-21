@@ -12,7 +12,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Taylor Swift's Audio Features and Popularity](#video-games-sales-analysis)
+	+ [Taylor Swift's Audio Features and Popularity](#Taylor-Swift-Audio-Features)
 - [Study Projects](#study-projects)
 	...
 - [Certificates](#certificates)
@@ -21,8 +21,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Taylor Swift audio features
-**Code:** [`Taylor Swift - Spotify API - Extraction of Audio Features and Popularity.ipynb`(https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/f51079b39dcd219c6daf439a4f5bc1a5ab265c2b/Taylor%20Swift%20-%20Spotify%20API%20-%20Extraction%20of%20Audio%20Features%20and%20Popularity.ipynb)    
+### Taylor Swift Audio Features
+**Code:** [`Taylor Swift - Spotify API - Extraction of Audio Features and Popularity.ipynb`(https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/f51079b39dcd219c6daf439a4f5bc1a5ab265c2b/Taylor%20Swift%20-%20Spotify%20API%20-%20Extraction%20of%20Audio%20Features%20and%20Popularity.ipynb]    
 **Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
