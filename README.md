@@ -9,9 +9,7 @@ The experience of working on a real-world project allowed me to gain hands-on ex
 
 However, my passion for data analysis extended beyond the realm of mobility. I found myself exploring and applying these concepts to diverse domains, driven by personal interests. This continuous exploration has allowed me to discover the power of data analysis in various contexts, expanding my knowledge and skill set.
 
-<br>
 In this constantly evolving portfolio, I aim to document and showcase the projects I undertake. This portfolio serves as a comprehensive record of my progress and achievements, demonstrating my growth as a data analyst and highlighting the diverse range of topics I've had the pleasure of exploring.
-<br>
   
 
 ## Table of contents
