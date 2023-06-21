@@ -13,7 +13,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Taylor Swift's Audio Features and Popularity](#Taylor-Swift-Audio-Features)
-- [Study Projects](#study-projects)
+- [Study Projects](#study-projects)   
 	...
 - [Certificates](#certificates)
 - [Contacts](#contacts)
