@@ -11,7 +11,7 @@ However, my passion for data analysis extended beyond the realm of mobility. I f
 
 In this constantly evolving portfolio, I aim to document and showcase the projects I undertake. This portfolio serves as a comprehensive record of my progress and achievements, demonstrating my growth as a data analyst and highlighting the diverse range of topics I've had the pleasure of exploring.
 
-Here you can find my [CV](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/ccedaeb2bbf8126fc0523869bd7451a3bdbe337b/Isabel%20Santoro%20-%20CV.pdf)
+Here you can find my [CV](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/ccedaeb2bbf8126fc0523869bd7451a3bdbe337b/Isabel%20Santoro%20-%20CV.pdf).
   
 
 ## Table of contents
