@@ -25,7 +25,7 @@ In this constantly evolving portfolio, I aim to document and showcase the projec
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Taylor Swift Audio Features
-**Code:** [`audio_features_spotify_API.ipynb`](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/738ae667fca07d115760f640e3ff73b4c088165d/audio_features_spotify_API.ipynb)  
+**Code:** [`audio_features_spotify_API.ipynb`](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/86aeeebce939ea09df11f275cc62bfb6f7305688/audio_features_spotify_API.ipynb)  
 **Tableau Dashboard:** [`Taylor Swift's Audio Features`](https://public.tableau.com/app/profile/isabel.santoro/viz/TaylorSwiftsAudioFeatures/Dashboard)   
 **Description:** In this project, I utilized the Spotify For Developers API to extract data regarding the audio features and popularity of each song from Taylor Swift's main albums. The project focuses on providing a comprehensive understanding of the dataset by presenting the information through a Tableau visualization. The visualization incorporates all the necessary details to comprehend the characteristics of the utilized dataset.  
 **Skills:** data visualization, API querying to retrieve the desired information.  
