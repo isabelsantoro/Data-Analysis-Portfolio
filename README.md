@@ -19,7 +19,7 @@ Here you can find my [CV](https://github.com/isabelsantoro/Data-Analysis-Portfol
 - [Portfolio Projects](#portfolio-projects)
 	+ [Taylor Swift's Audio Features and Popularity](#Taylor-Swift-Audio-Features)
 - [Study Projects](#study-projects)   
-	...
+	+ [Analysis of Traffic Accident Data](#Analysis-of-Traffic-Accident-Data)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -35,7 +35,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Review of the main charachteristics of the sound of each track.  
 
 ## Study Projects
+In this section, you can find the projects I have undertaken not out of personal inspiration, but as part of academic and educational pursuits, both within the university and in separate courses unrelated to the university.  
 
+### Analysis of Traffic Accident Data
+**Code:** [`traffic_accident_data.ipynb`](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/65478e30f812c45835add274a203562e16e9a731/traffic_accident_data.ipynb)  
+**Description:** This assignment was assigned to me as part of the Data Science and Security For Mobility course at Politecnico di Milano. The assignment makes use of publicly available data from the UK recording every traffic accident involving personal injury. The website containing the data is [here](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data).
+Specifically, I made use of three files describing: (i) the accidents, (ii) the vehicles involved, and (iii) the injured individuals (casualties), and 5 years of data from 2016 to 2020. The assignment required to visualize various aspects of the data and build predictive models with it. The main objective was to dive into summary statistics, feature distributions, feature correlations, time series aspects, spatial characteristics, and contributing factors/accident severity. Then, build predictive models and evaluate them. At the end of the analysis, important conclusions were drawn, which were presented orally along with the visualization of the notebook.  
 
 ## Certificates
 ...
