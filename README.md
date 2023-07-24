@@ -25,6 +25,7 @@ Here you can find my [CV](https://github.com/isabelsantoro/Data-Analysis-Portfol
 - [Study Projects](#study-projects)   
 	+ [Analysis of Traffic Accident Data](#Analysis-of-Traffic-Accident-Data)
 	+ [Design of a New Railway Line: Monopoli to Matera](#Design-of-a-New-Railway-Line-Monopoli-to-Matera)
+ 	+ [Truck Fleet Conversion: from Diesel to Hydrogen](#Truck-Fleet-Conversion)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -50,7 +51,19 @@ Specifically, I made use of three files describing: (i) the accidents, (ii) the 
 ### Design of a New Railway Line
 **Technical Report:** [`new_railway_line.pdf`](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/d7246eb91c40b72289b69ddaf96c9a24e262a325/new_railway_line.pdf)  
 This assignment was assigned to me as part of the Dynamics, Control and Diagnostics of Ground Transportation Systems course at Politecnico di Milano.
-The objective was to create a sustainable railway line. To do that, we choose to connect Monopoli to Matera, with stops in Alberobello and Santeramo in Colle, all popular tourist destinations. The railway would be served by a hydrogen train, leveraging Puglia's abundant clean energy production. The line aims to promote carbon-free and shared transportation, shortening travel times and reducing reliance on private vehicles. Existing railway connections are utilized to preserve the region's precious heritage. The project focused on vehicle dynamics, energy analysis, and comparisons with traditional transportation methods. The final presentation was delivered orally with a PowerPoint at the end of the course.
+The objective was to create a sustainable railway line. To do that, we choose to connect Monopoli to Matera, with stops in Alberobello and Santeramo in Colle, all popular tourist destinations. The railway would be served by a hydrogen train, leveraging Puglia's abundant clean energy production. The line aims to promote carbon-free and shared transportation, shortening travel times and reducing reliance on private vehicles. Existing railway connections are utilized to preserve the region's precious heritage. The project focused on vehicle dynamics, energy analysis, and comparisons with traditional transportation methods. The final presentation was delivered orally along with a PowerPoint at the end of the course.
+
+### Truck Fleet Conversion
+**Technical Report:** [`truck_fleet_conversion.pdf`](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/a3d609c89e513153660a69e954eccb09aa6b0b4c/truck_fleet_conversion.pdf)  
+This assignment was assigned to me as part of the Energy and Emissions in Transportation Systems course at Politecnico di Milano.
+The goal of the project is the evaluation of the introduction of hydrogen as an energy carrier for a heavy-duty vehicles fleet, currently powered by Diesel fuel.
+The technologies investigated for hydrogen production are water electrolysis (both PEM and alkaline) and methane steam reforming (both with and without carbon dioxide capture system).
+For each technology involved, the main characteristics will be presented and then the following aspects will be analyzed and compared:
+- Technical aspect;
+- Economic aspect;
+- Environmental aspect.
+The final step of the study is the comparison between the current Diesel situation and the hydrogen solution proposal; thus, a comparison between the vehicle consumption and range, the emissions associated to the WTW analysis and the fuel costs for a truck is be presented as a result.
+The final presentation was delivered orally along with a PowerPoint at the end of the course.
 
 
 ## Certificates
