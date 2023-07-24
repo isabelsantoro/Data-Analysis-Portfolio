@@ -72,6 +72,13 @@ This assignment was assigned to me as part of the Electric Systems for Mobility 
 The project discusses the implementation of an electric school bus line in Ottawa, Canada. The study is motivated by sustainable development goals (SDGs) regarding environmental and social sustainability.
 Briefly, the paper analyses the performances of the feet along the designed path, given a scheduled service constraint. Based on the results obtained, further analysis on the energy and infrastructural requirement and carbon emission are carried out, as well as a comparison with a traditional diesel fleet. Finally, the last section hypothesizes the costs and revenues of the project. The final presentation was delivered orally along with a PowerPoint at the end of the course.
 
+### Analisi di Fattibilità di un Nuovo Sistema di Trasporto Pubblico in Provincia di Brescia
+**Technical Report:** [`analisi_di_fattibilità.pdf`](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/825f09fdbb79a8b872268f186bb0311efde3f498/analisi_di_fattibilita%CC%80.pdf)  
+This assignment was assigned to me as part of the Tecnica ed Economia dei Trasporti course at Politecnico di Milano.
+The objective of the following study is to analyze the feasibility of a new public transportation system (TPL) that addresses various issues. The main purpose of this work is to expedite travel in the considered area by eliminating the overcrowding of public transport and proposing a dedicated solution, along with reducing the number of current stops.
+Additionally, a study for reorganizing schedules and improving connections is presented. The resolution of the issue concerning heavy vehicles circulating in the urban center is also taken into account, as well as the reevaluation of the image of Val Trompia, which would gain significance not only in terms of production but also from a landscape perspective. The final presentation was delivered orally along with a PowerPoint at the end of the course.
+
+
 ## Certificates
 ...
 
