@@ -56,12 +56,12 @@ The objective was to create a sustainable railway line. To do that, we choose to
 ### Truck Fleet Conversion
 **Technical Report:** [`truck_fleet_conversion.pdf`](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/a3d609c89e513153660a69e954eccb09aa6b0b4c/truck_fleet_conversion.pdf)  
 This assignment was assigned to me as part of the Energy and Emissions in Transportation Systems course at Politecnico di Milano.
-The goal of the project is the evaluation of the introduction of hydrogen as an energy carrier for a heavy-duty vehicles fleet, currently powered by Diesel fuel.
+The goal of the project is the evaluation of the introduction of hydrogen as an energy carrier for a heavy-duty vehicles fleet, currently powered by Diesel fuel.  
 The technologies investigated for hydrogen production are water electrolysis (both PEM and alkaline) and methane steam reforming (both with and without carbon dioxide capture system).
 For each technology involved, the main characteristics will be presented and then the following aspects will be analyzed and compared:
-- Technical aspect;
-- Economic aspect;
-- Environmental aspect.
+- Technical aspect
+- Economic aspect
+- Environmental aspect  
 The final step of the study is the comparison between the current Diesel situation and the hydrogen solution proposal; thus, a comparison between the vehicle consumption and range, the emissions associated to the WTW analysis and the fuel costs for a truck is be presented as a result.
 The final presentation was delivered orally along with a PowerPoint at the end of the course.
 
