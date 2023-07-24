@@ -24,6 +24,7 @@ Here you can find my [CV](https://github.com/isabelsantoro/Data-Analysis-Portfol
 	+ [Taylor Swift's Audio Features and Popularity](#Taylor-Swift-Audio-Features)
 - [Study Projects](#study-projects)   
 	+ [Analysis of Traffic Accident Data](#Analysis-of-Traffic-Accident-Data)
+	+ [Design of a New Railway Line: Monopoli to Matera](#Design-of-a-New-Railway-Line:-Monopoli-to-Matera)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
