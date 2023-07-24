@@ -26,6 +26,7 @@ Here you can find my [CV](https://github.com/isabelsantoro/Data-Analysis-Portfol
 	+ [Analysis of Traffic Accident Data](#Analysis-of-Traffic-Accident-Data)
 	+ [Design of a New Railway Line: Monopoli to Matera](#Design-of-a-New-Railway-Line-Monopoli-to-Matera)
  	+ [Truck Fleet Conversion: from Diesel to Hydrogen](#Truck-Fleet-Conversion)
+  	+ [Implementation of an Electric School-bus Service in Ottawa](#Implementation-of-an-Electric-School-Bus-Service-in-Ottawa)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -65,6 +66,11 @@ For each technology involved, the main characteristics will be presented and the
 The final step of the study is the comparison between the current Diesel situation and the hydrogen solution proposal; thus, a comparison between the vehicle consumption and range, the emissions associated to the WTW analysis and the fuel costs for a truck is be presented as a result.
 The final presentation was delivered orally along with a PowerPoint at the end of the course.
 
+### Implementation of an Electric School Bus Service in Ottawa
+**Technical Report:** [`electric_school_bus.pdf`](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/4a7bb5dcb73467c0c3f818b3cd4c978dee31c315/electric_school_bus.pdf)  
+This assignment was assigned to me as part of the Electric Systems for Mobility course at Politecnico di Milano.
+The project discusses the implementation of an electric school bus line in Ottawa, Canada. The study is motivated by sustainable development goals (SDGs) regarding environmental and social sustainability.
+Briefly, the paper analyses the performances of the feet along the designed path, given a scheduled service constraint. Based on the results obtained, further analysis on the energy and infrastructural requirement and carbon emission are carried out, as well as a comparison with a traditional diesel fleet. Finally, the last section hypothesizes the costs and revenues of the project. The final presentation was delivered orally along with a PowerPoint at the end of the course.
 
 ## Certificates
 ...
