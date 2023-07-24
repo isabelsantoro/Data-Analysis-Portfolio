@@ -7,9 +7,13 @@ In addition I had the privilege of developing my master's thesis within a compan
 
 The experience of working on a real-world project allowed me to gain hands-on experience in handling and analyzing large datasets, understanding the intricacies of mobility systems and deriving meaningful conclusions to drive positive change.
 
-However my passion for data analysis extended beyond the realm of mobility. I found myself exploring and applying these concepts to diverse domains, driven by personal interests. This continuous exploration has allowed me to discover the power of data analysis in various contexts and expanding my knowledge and skill set.
+However my passion for data analysis extended beyond the realm of mobility. I found myself exploring and applying these concepts to diverse domains, driven by personal interests. 
 
-In this constantly evolving portfolio I aim to document and showcase the projects I undertake. This portfolio serves as a comprehensive record of my progress and achievements, demonstrating my growth as a data analyst and highlighting the diverse range of topics I've had the pleasure of exploring.
+Beyond mobility-related projects, I also undertook various projects in university, showcasing my ability to work effectively as part of a team. This diverse range of topics highlights my growth as a data analyst and my capability to handle different challenges.
+
+This constantly evolving portfolio aims to document and showcase the projects I undertake, demonstrating not only pure data analysis projects but also initiatives within the mobility field during my academic pursuits. By including both solo and group projects, my goal is to exemplify my proficiency in collaborating with others and showcase myself as a well-rounded individual with strong teamwork skills.
+
+Overall, this portfolio serves as a comprehensive record of my progress and achievements, illustrating my expertise in data analysis while emphasizing my capacity to contribute effectively to group projects. It reflects my continuous exploration and passion for leveraging data to drive positive change in various contexts.
 
 Here you can find my [CV](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/ccedaeb2bbf8126fc0523869bd7451a3bdbe337b/Isabel%20Santoro%20-%20CV.pdf).
   
