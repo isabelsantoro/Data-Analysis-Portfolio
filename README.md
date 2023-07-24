@@ -85,4 +85,4 @@ Additionally, a study for reorganizing schedules and improving connections is pr
 
 ## Contacts
 - My mail: isabelsantoro97@gmail.com
-- My Linkedin profile: [Isabel Santoro](https://www.linkedin.com/in/isabel-santoro/)https://www.linkedin.com/in/isabel-santoro/)
+- My Linkedin profile: [Isabel Santoro](https://www.linkedin.com/in/isabel-santoro/)
