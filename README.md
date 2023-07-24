@@ -15,7 +15,7 @@ This constantly evolving portfolio aims to document and showcase the projects I 
 
 Overall, this portfolio serves as a comprehensive record of my progress and achievements, illustrating my expertise in data analysis while emphasizing my capacity to contribute effectively to group projects. It reflects my continuous exploration and passion for leveraging data to drive positive change in various contexts.
 
-Here you can find my [CV](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/ccedaeb2bbf8126fc0523869bd7451a3bdbe337b/Isabel%20Santoro%20-%20CV.pdf).
+Here you can find my [CV](https://github.com/isabelsantoro/Data-Analysis-Portfolio/blob/0525d158fade98e82b3567385b4217422f0624ea/Isabel%20Santoro%20-%20CV.pdf).
   
 
 ## Table of contents
