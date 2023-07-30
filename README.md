@@ -1,4 +1,4 @@
-# Data Analysis Portfolio - Isabel Santoro
+# Portfolio - Isabel Santoro
 
 ## About
 Hi, I'm Isabel! I hold a degree in Mobility Engineering and throughout my academic journey I had the opportunity to delve into various aspects of data analysis including statistics, machine learning, and more. During my studies I applied these skills to the field of mobility and transportation, leveraging data to gain insights and optimize transportation systems.
